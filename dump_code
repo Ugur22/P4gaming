@@ -1,0 +1,21 @@
+  // var fish = document.getElementsByTagName("fish")[0];
+    // // demo code : verander basis positie
+    // fish.style.left = "0px";
+    // fish.style.top = "0px";
+    // window.addEventListener('click', function (e) {
+    //     var fish = document.getElementsByTagName("fish")[0];
+    //     var rotation = 0;
+    //     console.log(fish);
+    //     rotation += 180;
+    //     console.log(e.pageX);
+    //     fish.style.transform = "translate(" + e.pageX + "px, " + e.pageY + "px) rotate(" + rotation + "deg)";
+    // });
+    //
+    // // demo code : verander kleur
+    // fish.style.webkitFilter = "hue-rotate(45deg)";
+    // fish.style.filter = "hue-rotate(45deg)";
+    //
+    // // demo code : verander basis positie
+    // var bubble = document.getElementsByTagName("bubble")[0];
+    // bubble.style.left = "60px";
+    // bubble.style.top = "0px";
